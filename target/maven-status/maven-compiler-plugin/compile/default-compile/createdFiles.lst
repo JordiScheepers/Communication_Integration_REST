@@ -1,0 +1,12 @@
+model\Climat.class
+services\ClimatResource$2.class
+services\ClimatResource$4.class
+model\ClimatService.class
+services\ClimatResource$3.class
+model\Country.class
+model\Month.class
+services\ClimatResource$5.class
+model\ObjectFactory.class
+model\ServiceProvider.class
+services\ClimatResource$1.class
+services\ClimatResource.class

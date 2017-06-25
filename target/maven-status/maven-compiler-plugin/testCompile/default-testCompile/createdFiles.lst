@@ -1,0 +1,4 @@
+test\categorytest\categorytest.class
+test\utils\MatchParams.class
+test\categorytest\IntegrationTest.class
+test\categorytest\ParameterizedTestIT.class

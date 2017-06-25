@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 0
+Size: 0
+Timestamp: Thu Mar 16 20:02:19 CET 2017
+TestStep: getClimat - Request 1
+
+----------------- Messages ------------------------------
+org.apache.http.conn.HttpHostConnectException: Connection to http://localhost:4567 refused
+
+- missing response / garbage collected -
